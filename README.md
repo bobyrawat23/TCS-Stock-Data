@@ -17,7 +17,7 @@ Overall, this project demonstrates the power of data analysis and machine learni
 
 # Future Enhancement
 
-Integration of Real-Time Stock Data Feeds
+# Integration of Real-Time Stock Data Feeds
 
 Enhancement: Incorporate real-time TCS stock data using APIs like Alpha Vantage or Yahoo Finance.
 
