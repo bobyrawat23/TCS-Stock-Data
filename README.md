@@ -24,51 +24,51 @@ Enhancement: Incorporate real-time TCS stock data using APIs like Alpha Vantage 
 Business Benefit: Enables timely decision-making for traders and investors, improving responsiveness to market changes and enhancing competitive 
 advantage.
 
-Predictive Modeling Using Advanced Algorithms
+# Predictive Modeling Using Advanced Algorithms
 
 Enhancement: Apply advanced models such as Linear Regression , Prophet, or hybrid models combining statistical and deep learning techniques.
 
 Business Benefit: Delivers more accurate forecasts, supporting better risk management, optimized investment strategies, and data-driven decision-
 making.
 
-Incorporation of Sentiment Analysis from News and Social Media
+# Incorporation of Sentiment Analysis from News and Social Media
 
 Enhancement: Use NLP techniques to analyze investor sentiment from news articles, earnings calls, and social media (e.g., Twitter).
 
 Business Benefit: Provides early signals for market movement, allowing stakeholders to anticipate stock performance shifts influenced by public 
 opinion or market sentiment.
 
-Technical and Fundamental Indicator Integration
+# Technical and Fundamental Indicator Integration
 
 Enhancement: Add key indicators such as MACD, RSI, moving averages, P/E ratios, and earnings reports.
 
 Business Benefit: Supports stakeholders in making well-rounded investment decisions by combining technical signals with company fundamentals.
 
-Automated Alerts and Reporting System
+# Automated Alerts and Reporting System
 
 Enhancement: Build a system to send alerts or generate regular reports based on key stock events or prediction deviations.
 
 Business Benefit: Reduces manual tracking efforts and ensures stakeholders are immediately informed of significant stock behavior, improving agility.
 
-Portfolio-Level Analysis
+# Portfolio-Level Analysis
 
 Enhancement: Expand the model to include TCS alongside other IT stocks for correlation and diversification analysis.
 
 Business Benefit: Helps institutional investors and portfolio managers optimize asset allocation and reduce exposure to unsystematic risk.
 
-Interactive Visualization Dashboard
+# Interactive Visualization Dashboard
 
 Enhancement: Deploy a Streamlit or Dash-based web app to allow users to interact with data and forecasts dynamically.
 
 Business Benefit: Empowers non-technical stakeholders to explore insights independently, improving transparency and adoption of data-driven strategies.
 
-Backtesting and Strategy Simulation
+# Backtesting and Strategy Simulation
 
 Enhancement: Backtest trading strategies using historical data to validate performance before deployment.
 
 Business Benefit: Minimizes risk by allowing stakeholders to test hypotheses and investment strategies under simulated market conditions.
 
-Explainable AI for Model Interpretability
+# Explainable AI for Model Interpretability
 
 Enhancement: Use tools like SHAP or LIME to explain model decisions.
 
